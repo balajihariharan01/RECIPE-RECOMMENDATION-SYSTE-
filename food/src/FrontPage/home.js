@@ -14,7 +14,6 @@ const Home = () => {
             <div><Link to="/search">Search</Link></div>
             <div></div>
             <div></div>
-            <div></div>
           </div>
           
             <div onClick={()=>{handleClick(false)}} className='SignIn'>SIGN IN <i className="bi bi-box-arrow-in-right"></i></div>
